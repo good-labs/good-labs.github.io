@@ -18,7 +18,7 @@ jobs:
       - run:
           name: Bundle Install
           command: |
-              cd ~/repo/docs
+              cd ~/repo
               bundle check || bundle install
       - save_cache:
           key: rubygems-v1
