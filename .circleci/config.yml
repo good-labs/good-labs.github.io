@@ -19,8 +19,6 @@ jobs:
           name: Bundle Install
           command: |
               cd ~/repo
-              rm -rf ~/repo/vendor/cache
-              gem install jekyll --no-document
               bundle check || bundle install
       - save_cache:
           key: rubygems-v1

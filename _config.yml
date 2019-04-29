@@ -22,6 +22,7 @@ repo: https://www.github.com/good-labs/good-labs.github.io
 
 permalink: pretty
 exclude: 
+ - vendor
  - "*.gem"
  - _site
  - "Gemfile"
