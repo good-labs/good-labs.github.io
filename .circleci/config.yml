@@ -44,4 +44,4 @@ workflows:
       - build:
           filters:
             branches:
-              ignore: master
+              ignore: ignore*
