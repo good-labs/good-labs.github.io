@@ -28,8 +28,8 @@ jobs:
           name: Jekyll Build
           command: |              
               echo "Building Good Labs Site"
-              mv ~/repo/.circleci/circle_urls.sh ~/repo/docs/circle_urls.sh
-              cd ~/repo/docs
+              mv ~/repo/.circleci/circle_urls.sh ~/repo/circle_urls.sh
+              cd ~/repo
               chmod u+x circle_urls.sh
               bash circle_urls.sh              
               bundle exec jekyll build
