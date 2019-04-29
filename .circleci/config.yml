@@ -34,8 +34,8 @@ jobs:
               bash circle_urls.sh              
               bundle exec jekyll build
       - store_artifacts:
-          path: ~/repo/docs/_site
-          destination: org
+          path: ~/repo/_site
+          destination: good-labs.github.io
 
 workflows:
   version: 2
