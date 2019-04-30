@@ -28,6 +28,8 @@ The Greater Good Pledge is an assertion a community or project can make to be fo
 
 Doctopus will provide documentation syndication for institutions. The code is under development.
 
+<br><br>
+
 Now that you've read about the projects, you should next read about how to contribute.
 
 [Contributing]({{ site.baseurl }}/contributing){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
