@@ -27,9 +27,9 @@ This is a portal to learn about the Good Labs, and connect you to a resource tha
  - [Contributing]({{ site.baseurl }}/contributing)
  - [Mailing List](https://murmur.csail.mit.edu/groups/good-labs)
 
-[![Gitter](https://badges.gitter.im/good-labs/community.svg)](https://gitter.im/good-labs/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![https://good-labs.github.io/greater-good-pledge/assets/images/badge.svg](https://good-labs.github.io/greater-good-pledge/assets/images/badge.svg)](https://good-labs.github.io/greater-good-pledge)
-
 {: .fs-6 .fw-300 }
 
 ---
+
+[![Gitter](https://badges.gitter.im/good-labs/community.svg)](https://gitter.im/good-labs/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![https://good-labs.github.io/greater-good-pledge/assets/images/badge.svg](https://good-labs.github.io/greater-good-pledge/assets/images/badge.svg)](https://good-labs.github.io/greater-good-pledge)
