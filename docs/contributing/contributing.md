@@ -38,9 +38,8 @@ the greater good.
 If you want to join the community, there are many ways to do this!
 
  - [Join on GitHub](https://www.github.com/good-labs/good-lab.github.io/) by opening an issue and requesting membership.
- - [Mailing List](mailto:good-labs@murmur.csail.mit.edu) is used sparsely to ask questions or share fun projects.
+ - [Mailing List](https://murmur.csail.mit.edu/groups/good-labs) is used sparsely to ask questions or share fun projects.
  - [Gitter](https://gitter.im/good-labs/community) to join active conversation, or ask a question!
-
 
 ### 3. Contribute a Project
 
