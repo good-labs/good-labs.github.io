@@ -24,7 +24,7 @@ With this kind of transparency, we can foster a healthy environment for software
 ### How do I participate?
 
 We invite interested communities to sign the 
-[profit free pledge](https://www.github.com/good-labs/profit-free-plege) to
+[Greater Good Pledge](https://good-labs.github.io/greater-good-pledge/) to
 assert that one or more of their projects are for the greater good. We encourage
 this process is done with a quick pull request, however if you would like make
 a quick suggestion, you can use [this Google form](https://forms.gle/xkG4CvwhJEzThCjN7).

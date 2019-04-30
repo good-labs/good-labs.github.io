@@ -29,7 +29,7 @@ There are many ways to contribute! Here are a few examples.
 ### 1. Take the Pledge
 
 If you or your organization can assert that your software is for the greater good,
-we invite you to [take the pledge](https://www.github.com/good-labs/profit-free-pledge). Taking the pledge will generate a badge that
+we invite you to [take the pledge](https://www.github.com/good-labs/greater-good-pledge). Taking the pledge will generate a badge that
 you can share on your community and projects pages as an assertion that you are for
 the greater good.
 

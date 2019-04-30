@@ -20,9 +20,13 @@ permalink: /projects/
 This page provides a review of current Good Labs projects and Proposals. To give feedback or
 create a proposal, you can open an issue or pull request on the [good-labs/org](https://www.github.com/good-labs/org) repository.
 
-## The Profit Free Pledge
+## The Greater Good Pledge
 
-The Profit Free Pledge is an assertion a community or project can make to be for the greater good. Read more about [the pledge here]({{ site.baseurl }}/docs/projects/pledge/).
+The Greater Good Pledge is an assertion a community or project can make to be for the greater good. Read more about [the pledge here](https://good-labs.github.io/greater-good-pledge/.
+
+## Doctopus
+
+Doctopus will provide documentation syndication for institutions. The code is under development.
 
 Now that you've read about the projects, you should next read about how to contribute.
 
