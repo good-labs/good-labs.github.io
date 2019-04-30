@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contributing
-nav_order: 4
+nav_order: 2
 has_children: true
 permalink: /contributing/
 ---
@@ -37,13 +37,14 @@ the greater good.
 
 If you want to join the community, there are many ways to do this!
 
- - [Join on GitHub](https://www.github.com/good-labs/org) by opening an issue and requesting membership.
+ - [Join on GitHub](https://www.github.com/good-labs/good-lab.github.io/) by opening an issue and requesting membership.
+ - [Mailing List]() is used sparsely to ask questions or share fun projects.
 
 We will have other channels of communication added shortly.
 
 ### 3. Contribute a Project
 
 If you have an idea for a project that fits well with the organization goals, we invite you
-to submit a proposal under the [good-labs/org](https://www.github.com/good-labs/org) repository.
-Generally, your proposal should summarize the problem that the project aims to address, the project
+to submit a proposal under the [proposals folder](https://www.github.com/good-labs/good-labs.github.io/tree/master/docs/projects) folder.
+in this repository. Generally, your proposal should summarize the problem that the project aims to address, the project
 itself, and plans for implementation.
