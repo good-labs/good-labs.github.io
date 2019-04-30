@@ -20,7 +20,7 @@ permalink: /contributing/
 # The Good Labs
 
 Before you are ready to contribute, make sure that you understand the goals of The Good Labs.
-If you have any questions, please [open an issue](https://www.github.com/good-labs/org/issues).
+If you have any questions, please [open an issue](https://www.github.com/good-labs/good-labs.github.io/issues).
 
 ## How do I Contribute?
 
@@ -38,9 +38,9 @@ the greater good.
 If you want to join the community, there are many ways to do this!
 
  - [Join on GitHub](https://www.github.com/good-labs/good-lab.github.io/) by opening an issue and requesting membership.
- - [Mailing List]() is used sparsely to ask questions or share fun projects.
+ - [Mailing List](mailto:good-labs@murmur.csail.mit.edu) is used sparsely to ask questions or share fun projects.
+ - [Gitter](https://gitter.im/good-labs/community) to join active conversation, or ask a question!
 
-We will have other channels of communication added shortly.
 
 ### 3. Contribute a Project
 

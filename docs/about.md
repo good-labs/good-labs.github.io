@@ -28,11 +28,10 @@ We invite interested communities to sign the
 assert that one or more of their projects are for the greater good. We encourage
 this process is done with a quick pull request, however if you would like make
 a quick suggestion, you can use [this Google form](https://forms.gle/xkG4CvwhJEzThCjN7).
-
-### Where can I learn more?
-
-In addition to this documentation base, you can find proposals and web resources (podcasts, articles, and other media) to support
-your own learning at [good-labs/org](https://www.github.com/good-labs/org/)
+You can also join [our mailing list](mailto:good-labs@murmur.csail.mit.edu) or 
+if you are passionate about open source transparency, 
+[open an issue](https://www.github.com/good-labs/good-labs.github.io) to join the
+organization. All are welcome!
 
 ### Challenges
 
