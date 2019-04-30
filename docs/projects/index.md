@@ -22,7 +22,7 @@ create a proposal, you can open an issue or pull request on the [good-labs/org](
 
 ## The Greater Good Pledge
 
-The Greater Good Pledge is an assertion a community or project can make to be for the greater good. Read more about [the pledge here](https://good-labs.github.io/greater-good-pledge/.
+The Greater Good Pledge is an assertion a community or project can make to be for the greater good. Read more about [the pledge here](https://good-labs.github.io/greater-good-pledge/).
 
 ## Doctopus
 
