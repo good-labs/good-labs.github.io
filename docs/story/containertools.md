@@ -12,7 +12,7 @@ tools and deployments for Singularity containers.
 
 ---------------------
 
-I'm @vsoch on GitHub. I created [Singularity Hub](https://www.singularity-hub.org), a platform for building
+I'm [@vsoch](https://www.github.com/vsoch) on GitHub. I created [Singularity Hub](https://www.singularity-hub.org), a platform for building
 containers from GitHub repositories, and having the containers be easily pulled to a research cluster
 in 2016. While Singularity Hub itself is private, I felt a compelling need to provide an open source version
 of Singularity Hub, with no aim but to empower institutions to deploy their own container registries for 
