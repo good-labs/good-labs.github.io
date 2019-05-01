@@ -14,7 +14,7 @@ components to create a healthy environment for software development. The Good La
 is an initiative to promote these ideas, and support open source projects that
 are transparently for the greater good. We provide:
 
- - *pledge*: to assert that a community is for the greater good
+ - *a pledge*: to assert that a community is for the greater good
  - *community*: of open source developers that believe in transparency
  - *tools*: to support transparency and communication in these communities
 
