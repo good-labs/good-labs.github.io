@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Story of Container Tools
+title: Container Tools
 nav_order: 3
 parent: Story
 ---
