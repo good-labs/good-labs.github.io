@@ -24,6 +24,11 @@ create a proposal, you can open an issue or pull request on this [repository](ht
 
 The Greater Good Pledge is an assertion a community or project can make to be for the greater good. Read more about [the pledge]({{ site.url }}{{ site.baseurl }}/docs/projects/greater-good-pledge) or sign the [the pledge here](https://good-labs.github.io/greater-good-pledge/).
 
+## Transparent Funding.
+
+The Transparent Funding project is an effort to encourage projects and communities to share how to financially contribute to their projects, and given some financial contribution to provide disclosure about how the support is invested. Read more about [the project here]({{ site.url }}{{ site.baseurl }}/docs/projects/funding/).
+
+
 ## Doctopus
 
 Doctopus will provide documentation syndication for institutions. The code is under development.
