@@ -20,16 +20,11 @@ parent: Projects
 
 The [Greater Good Pledge](https://www.github.com/good-labs/greater-good-pledge) is a pledge
 for a community with one or more open source projects to take to assert that the project
-has no ulterior motives. Specifically:
-
- - The software that is being provided open source by a company cannot directly or indirectly contribute to making profits for that company.
- - The majority of contributors represent dispersed community (and not required participants for a company)
- - The community must have completely open communication, meaning all discussion around development is public.
- - All software is provided under an open source license, with no private distributions or versions with special privileges.
-
-By taking the Greater Good Pledge, a community affirms that it provides software under a traditional
-open source model, and exists non-selfishly to solve problems for users and
-not make profits off of them.
+has no ulterior motives, and is "for the greater good." Generally, this means that
+the community has transparency of incentives, funding, and communication. To see
+the current draft, visit the [pledge site](https://good-labs.github.io/greater-good-pledge)
+or contribute to the first draft via suggestions or comments [here](https://docs.google.com/document/d/1KtU-g5NpAb8K-tNrG8P0KMwRO44iLETLRPbuBFiyUts/edit). The (live) version on the site is updated regularly after conversation with changes,
+and when discussion dies down the first (official) release will go out.
 
 ## Why do we need it?
 
