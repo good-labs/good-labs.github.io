@@ -20,9 +20,9 @@ permalink: /projects/
 This page provides a review of current Good Labs projects and Proposals. To give feedback or
 create a proposal, you can open an issue or pull request on this [repository](https://www.github.com/good-labs/good-labs.github.io).
 
-## The Greater Good Pledge
+## The Greater Good Affirmation
 
-The Greater Good Pledge is an assertion a community or project can make to be for the greater good. Read more about [the pledge]({{ site.url }}{{ site.baseurl }}/docs/projects/greater-good-pledge) or sign the [the pledge here](https://good-labs.github.io/greater-good-pledge/).
+The Greater Good Affirmation is an assertion a community or project can make to be for the greater good. Read more about [the pledge]({{ site.url }}{{ site.baseurl }}/docs/projects/greater-good) or take the [the affirmation here](https://good-labs.github.io/greater-good-affirmation/).
 
 ## Transparent Funding.
 

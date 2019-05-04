@@ -14,7 +14,7 @@ components to create a healthy environment for software development. The Good La
 is an initiative to promote these ideas, and support open source projects that
 are transparently for the greater good. We provide:
 
- - *a pledge*: to assert that a community is for the greater good
+ - *an affirmation*: to assert that a community is for the greater good
  - *community*: of open source developers that believe in transparency
  - *tools*: to support transparency and communication in these communities
 
@@ -32,4 +32,4 @@ This is a portal to learn about the Good Labs, and connect you to a resource tha
 ---
 
 [![Gitter](https://badges.gitter.im/good-labs/community.svg)](https://gitter.im/good-labs/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![https://good-labs.github.io/greater-good-pledge/assets/images/badge.svg](https://good-labs.github.io/greater-good-pledge/assets/images/badge.svg)](https://good-labs.github.io/greater-good-pledge)
+[![https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg](https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg)](https://good-labs.github.io/greater-good-affirmation)
