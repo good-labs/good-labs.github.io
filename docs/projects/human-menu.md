@@ -5,7 +5,7 @@ nav_order: 3
 parent: Projects
 ---
 
-# Transparent Funding
+# The Human Menu
 {: .no_toc }
 
 ## Table of contents
@@ -30,7 +30,8 @@ machines" to the detriment of our mental health.
 
 Humans use lists and suggestions to reduce cognitive load. Instead of
 offering a list of YouTube videos, endlessly scrolling social media posts,
-or phone apps, the Human Menu provides a selection of real world "human" options.
+or phone apps, the Human Menu provides a selection of real world "human" options
+such as "Call your Mom," or "Do a puzzle."
 
 ## Project Plan
 
