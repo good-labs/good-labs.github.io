@@ -44,6 +44,6 @@ If you want to join the community, there are many ways to do this!
 ### 3. Contribute a Project
 
 If you have an idea for a project that fits well with the organization goals, we invite you
-to submit a proposal under the [proposals folder](https://www.github.com/good-labs/good-labs.github.io/tree/master/docs/projects) folder.
+to submit a proposal under the [projects folder](https://www.github.com/good-labs/good-labs.github.io/tree/master/docs/projects) folder.
 in this repository. Generally, your proposal should summarize the problem that the project aims to address, the project
 itself, and plans for implementation. If you'd prefer to start by bouncing some ideas off the community before submitting a proposal, please feel free to do so in [Gitter](https://gitter.im/good-labs/community) or the [mailing list](https://murmur.csail.mit.edu/groups/good-labs).
