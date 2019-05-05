@@ -24,6 +24,14 @@ create a proposal, you can open an issue or pull request on this [repository](ht
 
 The Greater Good Affirmation is an assertion a community or project can make to be for the greater good. Read more about [the pledge]({{ site.url }}{{ site.baseurl }}/docs/projects/greater-good) or take the [the affirmation here](https://good-labs.github.io/greater-good-affirmation/).
 
+
+## The Human Menu
+
+There are huge detriments to our society and mental health as a result of the [attention economy](https://humanetech.com/problem/). Instead
+of typical selection from a set of YouTube videos or social media apps, the Human Menu aims to provide a list of choices that exist
+but are sometimes forgotten. Read more about [the project here]({{ site.url }}{{ site.baseurl }}/docs/projects/human-menu/).
+
+
 ## Transparent Funding.
 
 The Transparent Funding project is an effort to encourage projects and communities to share how to financially contribute to their projects, and given some financial contribution to provide disclosure about how the support is invested. Read more about [the project here]({{ site.url }}{{ site.baseurl }}/docs/projects/funding/).
