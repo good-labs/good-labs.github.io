@@ -37,6 +37,11 @@ but are sometimes forgotten. Read more about [the project here]({{ site.url }}{{
 The Transparent Funding project is an effort to encourage projects and communities to share how to financially contribute to their projects, and given some financial contribution to provide disclosure about how the support is invested. Read more about [the project here]({{ site.url }}{{ site.baseurl }}/docs/projects/funding/).
 
 
+## Searchable Linkable Open Public Indexed (SLOPI) Communication
+
+The Searchable Linkable Open Public Indexed (SLOPI) Communication project is an effort to remind open source developers of the importance of transparent communication rather than favoring Slack for discussion and decision making. Read more about [the project here]({{ site.url }}{{ site.baseurl }}/docs/projects/slopi-communication/).
+
+
 ## Doctopus
 
 Doctopus will provide documentation syndication for institutions. The code is under development.
