@@ -43,6 +43,8 @@ While open source projects should endeavor to communicate in the SLOPI style whe
 
 The SLOPI style can take some getting used to if you are new to open source culture. It's ok to be a little sloppy. Please don't worry if the message you send isn't perfect. The fact that you sent it in the open is appreciated. Open source is getting friendlier. A thick skin isn't as necessary as it was in the past.
 
+To learn more: <https://github.com/good-labs/slopi-communication>
+
 [discussion]: https://github.com/coreinfrastructure/best-practices-badge/commit/65ebe74d7bfdf661502978311200d0c32f7b8be8
 [Core Infrastructure Initiative (CII) Best Practices]: https://bestpractices.coreinfrastructure.org
 
@@ -51,6 +53,8 @@ The SLOPI style can take some getting used to if you are new to open source cult
 Open source projects are adopting Slack, forgetting the importance of public and open communication. How can your users and contributors know what you're thinking if the majority of discussion and decision making is done in Slack? Did you forget that you have a mailing list with public archives? Have you considered chat tools that support a SLOPI communication style? Should the discussion happen on the public issue tracker?
 
 ## Project Plan
+
+See <https://github.com/good-labs/slopi-communication/blob/master/CONTRIBUTING.md>
 
 - Tell success stories of projects that have adopted a SLOPI communication style as positive role models. Link to the various tooks they use.
 - List alternatives to Slack that are SLOPI, such as Gitter, logged IRC channels, and logged XMPP rooms.
