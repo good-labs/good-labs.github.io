@@ -9,7 +9,7 @@ permalink: /
 
  > for the greater good
 
-Transparency, including open communication, incentives, and funding are essential
+Transparency, including [open communication]({{ site.baseurl }}/docs/projects/slopi-communication), incentives, and funding are essential
 components to create a healthy environment for software development. The Good Labs
 is an initiative to promote these ideas, and support open source projects that
 are transparently for the greater good. We provide:
