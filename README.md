@@ -11,7 +11,7 @@ or feedback.
 
 ## What are the Good Labs?
 
-Transparency, including open communication, incentives, and funding are essential
+Transparency, including [open communication](https://good-labs.github.io/docs/projects/slopi-communication/), incentives, and funding are essential
 components to create a healthy environment for software development. The Good Labs
 is an initiative to promote these ideas, and support open source projects that
 are transparently for the greater good.
