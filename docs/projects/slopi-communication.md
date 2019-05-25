@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Searchable Linkable Open Public Indexed (SLOPI) Communication
+title: SLOPI Communication
 nav_order: 3
 parent: Projects
 ---
