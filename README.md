@@ -24,3 +24,7 @@ assert that one or more of their projects are for the greater good. We encourage
 this process is done with a quick pull request, however if you would like make
 a quick suggestion, you can use [this Google form](https://forms.gle/xkG4CvwhJEzThCjN7).
 See also [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Governance
+
+For governance, including adding team members, joining the Good Labs, and other community information, please see our [Contributing documentation](https://www.github.com/good-labs/.github).
