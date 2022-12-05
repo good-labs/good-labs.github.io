@@ -34,7 +34,7 @@ but are sometimes forgotten. Read more about [the project here]({{ site.url }}{{
 
 ## Searchable Linkable Open Public Indexed (SLOPI) Communication
 
-The Searchable Linkable Open Public Indexed (SLOPI) Communication project is an effort to remind open source developers of the importance of transparent communication rather than favoring Slack for discussion and decision making. Read more about [the project here]({{ site.url }}{{ site.baseurl }}/docs/projects/slopi-communication/).
+The Searchable Linkable Open Public Indexed (SLOPI) Communication project is an effort to remind open source developers of the importance of transparent communication rather than favoring Slack for discussion and decision making. Read more about [the project here](https://github.com/pdurbin/slopi-communication).
 
 
 <br><br>
