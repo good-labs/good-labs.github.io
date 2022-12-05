@@ -4,7 +4,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/ruby:2.4.1
+      - image: cimg/ruby:2.7.0
     working_directory: ~/repo
     environment:
       - JEKYLL_ENV: production
@@ -14,14 +14,14 @@ jobs:
       - checkout
       - restore_cache:
           keys:
-          - rubygems-v1
+          - rubygems-v2
       - run:
           name: Bundle Install
           command: |
               cd ~/repo
               bundle check || bundle install
       - save_cache:
-          key: rubygems-v1
+          key: rubygems-v2
           paths:
             - vendor/bundle
       - run:

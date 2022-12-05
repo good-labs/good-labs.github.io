@@ -16,4 +16,4 @@ parent: Projects
 
 ---
 
-Please note: SLOPI was incubated at Good Labs but has moved to https://github.com/pdurbin/slopi-communication
+Please note: SLOPI was incubated at Good Labs but has moved to [https://github.com/pdurbin/slopi-communication](https://github.com/pdurbin/slopi-communication)
