@@ -14,7 +14,7 @@ The Good Labs purpose can be summarized in a simple phrase:
 We aim to provide support for transparency of open source communities. This means that
 we value:
 
- - [open communication]({{ site.baseurl }}/docs/projects/slopi-communication)
+ - [open communication](https://github.com/pdurbin/slopi-communication)
  - clear incentives
  - disclosure of funding or conflicts on interest
 
